@@ -9878,4 +9878,21 @@ input[type="button"]:focus {
 #portal-footer-wrapper .portlet .portletContent > ul > li a:before {
   content: "";
 }
+#searchbox_currentfolder_only {
+  margin: 0 0 10px 0;
+}
+#searchbox_currentfolder_only + label {
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+.searchButton {
+  margin-bottom: 0;
+  height: 30px !important;
+}
+/* #portal-languageselector {
+  margin-right: 0;
+}
+#portal-languageselector a:hover {
+    text-decoration: none;
+} */
 /*# sourceMappingURL=++theme++future_imperfect/less/future_imperfect-compiled.css.map */
