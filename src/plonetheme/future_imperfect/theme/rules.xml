@@ -78,6 +78,11 @@
       css:theme='#search-box-sidebar'
       />
 
+  <replace
+    css:content='#portal-languageselector'
+    css:theme='#portal-languageselector'
+    />
+
   <!-- <replace css:content="#searchGadget_form input.searchButton">
     <button class="search-icon" type="submit">
       <i class="icon-search"></i>
